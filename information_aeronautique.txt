@@ -1,0 +1,30 @@
+L'information aéronautique : à quoi sert-elle et comment est-elle organisée ?
+
+(Document d'exemple rédigé à but pédagogique pour tester le script. Seules les publications officielles des autorités de l'aviation civile font foi.)
+
+Pourquoi l'information aéronautique est essentielle
+Avant chaque vol, un pilote doit connaître l'état des aérodromes, des espaces aériens et des moyens de navigation qu'il va utiliser. Une piste fermée pour travaux, une fréquence radio modifiée ou une zone temporairement interdite peuvent changer complètement la préparation d'un vol. L'information aéronautique regroupe toutes ces données. Son objectif est simple : fournir aux équipages, aux contrôleurs aériens et aux exploitants une information exacte, complète et à jour, pour garantir la sécurité et la régularité de la navigation aérienne. Au niveau international, les règles sont fixées par l'Organisation de l'aviation civile internationale (OACI), dans son Annexe 15.
+
+La publication d'information aéronautique (AIP)
+Chaque État publie un document de référence appelé AIP, pour « Aeronautical Information Publication ». L'AIP contient les informations durables, c'est-à-dire celles qui restent valables longtemps. Elle est organisée en trois parties. La partie GEN (généralités) présente les règles nationales, les services disponibles et les abréviations. La partie ENR (en route) décrit les espaces aériens, les routes et les aides à la navigation. La partie AD (aérodromes) donne, pour chaque aérodrome, les pistes, les procédures d'approche, les obstacles et les services offerts.
+
+Les mises à jour de l'AIP
+L'AIP est corrigée par des amendements, qui modifient son contenu de façon permanente. Lorsqu'un changement est temporaire mais dure longtemps, en général trois mois ou plus, ou lorsqu'il nécessite beaucoup de texte et de cartes, il est publié dans un supplément à l'AIP, appelé SUP AIP. Le supplément est retiré lorsque la situation revient à la normale.
+
+Le cycle AIRAC
+Certains changements ont un impact direct sur les opérations : nouvelle procédure d'approche, modification d'une route, changement de limites d'un espace aérien. Pour que tous les acteurs les appliquent le même jour, ces changements suivent le système AIRAC. Les dates d'entrée en vigueur sont fixées à l'avance, toutes les 28 jours, toujours un jeudi. Les informations sont diffusées plusieurs semaines avant leur date d'effet. Les compagnies aériennes, les éditeurs de cartes et les fournisseurs de bases de données de navigation ont ainsi le temps de mettre à jour leurs documents et leurs systèmes embarqués.
+
+Les NOTAM
+Un NOTAM est un avis diffusé rapidement pour signaler un changement temporaire ou urgent que les équipages doivent connaître sans délai. Il peut annoncer la fermeture d'une piste, la panne d'un balisage lumineux, la présence d'une grue près d'un aérodrome ou l'activation d'une zone réglementée. Un NOTAM a une date de début et, le plus souvent, une date de fin. Avant le départ, le pilote consulte un bulletin d'information prévol qui regroupe les NOTAM en vigueur sur son trajet. Lire ces avis fait partie de la préparation obligatoire du vol.
+
+Les circulaires d'information aéronautique (AIC)
+Certaines informations ne justifient ni une inscription dans l'AIP ni un NOTAM. Il s'agit par exemple d'explications sur une nouvelle réglementation, de conseils de sécurité ou d'annonces administratives. Elles sont publiées dans des circulaires d'information aéronautique, appelées AIC.
+
+De l'information papier à la gestion numérique des données
+Pendant longtemps, l'information aéronautique a été diffusée sous forme de documents papier et de messages texte. Aujourd'hui, elle est de plus en plus gérée comme une base de données numérique : on parle de gestion de l'information aéronautique. Les données sont structurées selon des modèles d'échange communs, comme le modèle AIXM, afin que les systèmes informatiques des différents acteurs puissent se les transmettre automatiquement. Cette évolution réduit les erreurs de saisie, accélère les mises à jour et facilite la production de cartes et de bases de données de navigation.
+
+La qualité des données
+Une erreur dans une coordonnée ou dans l'altitude d'un obstacle peut avoir des conséquences graves. C'est pourquoi chaque donnée doit respecter des exigences de qualité : précision, intégrité, traçabilité et respect des délais de publication. Celui qui crée la donnée, celui qui la publie et celui qui l'utilise ont chacun une part de responsabilité dans cette chaîne.
+
+Ce qu'il faut retenir
+L'information aéronautique repose sur plusieurs supports complémentaires. L'AIP contient l'information durable, les suppléments couvrent les changements temporaires de longue durée, les NOTAM signalent l'urgent et le temporaire, et les AIC apportent des explications. Le cycle AIRAC garantit que les changements importants entrent en vigueur partout à la même date.
